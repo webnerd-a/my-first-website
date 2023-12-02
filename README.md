@@ -1,3 +1,3 @@
 # my-first-website
 
-Mi primer repositorio en github con mi primera pagina web! :D ❤✨
+Mi primer repositorio usando la linea de comandos, creando mi primera pagina web! :D ❤✨
