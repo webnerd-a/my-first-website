@@ -2,6 +2,7 @@
 
 Mi primer repositorio usando:
 - VS code
-- La linea de comandos (GIT)
+- Sincronización con la linea de comandos GIT y con GitHub
 - Agregando cosas de multimedia
-- Pagina para practicar con HTML, CSS y JS ❤✨
+- Agregando biografia sobre quien soy y mis habilidades
+- Es sola una pagina como para practicar con HTML, CSS y JS ❤✨
