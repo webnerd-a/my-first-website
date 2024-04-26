@@ -1,8 +1,8 @@
-# my-first-website
+# mi-primera-pagina-web
 
-Mi primer repositorio usando:
-- VS code
-- Sincronización con la linea de comandos GIT y con GitHub
-- Agregando cosas de multimedia
-- Agregando biografia sobre quien soy y mis habilidades
-- Es sola una pagina como para practicar con HTML, CSS y JS ❤✨
+Este fue mi primer repositorio usando:
+- aprendiendo a usar VS code
+- Sincronización con la linea de comandos GIT y con mi cuenta de GitHub
+- Agregando cosas de multimedia de mi pagina
+- Agregando alguna biografia sobre quien soy y mis habilidades
+- Es sola una pagina como para practicar lo visual con HTML y CSS ❤✨
