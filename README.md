@@ -1,6 +1,6 @@
 ## my-first-website
 
-in this repository i learned:
-- Sync git terminal and github account 
-- It's just a HTML practice with some CSS upgrades later :]
-- some upgrade for my github account, November 2024 (from spanish to english)
+En este repositorio aprendí:
+- Instalar y configurar git y github 
+- HTML y CSS practicos
+- y Algunos scripts de JS ;)
