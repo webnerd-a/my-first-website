@@ -1,6 +1,8 @@
 ## my-first-website
 
 En este repositorio aprendí:
-- Instalar y configurar git y github 
-- HTML y CSS practicos
-- y Algunos scripts de JS ;)
+- Instalar y configurar git y con mi cuenta de github 
+- Practicar HTML, CSS y algunos scripts de JS
+- Crear mis primeras paginas web para practicar :3
+
+
