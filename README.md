@@ -5,4 +5,4 @@ En este repositorio aprendí:
 - Practicar HTML, CSS y algunos scripts de JS
 - Crear mis primeras paginas web para practicar :3
 
-
+Para ver la pagina, solo descarguen el contenido del repositorio 
